@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: tomato;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: rgba(138,210,251,1.00);
+	padding: 20px;
+}
+h1, h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: firebrick;
+	
+}
+span{color: rgba(3,8,241,1.00)}
+body{background-image: url("Slike/istockphoto-1459373176-612x612.jpg")
+}
+a:link{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 25px;
+	border: 1px solid #000000;
+	
+}
+a:hover{
+	background-color: darkgray
+	
+}
